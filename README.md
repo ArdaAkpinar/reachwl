@@ -8,12 +8,12 @@ local whitelist = {
     "qazztr",
     "Arda1420",
     "Arda1420",
-    "Arda1420",
+    "thegorkemalfa",
     "Zzz_tps2",
     "2525israfil",
     "itsh0r",
     "tpsciawain", --me
-    "Arda1420", 
+    "Buluto31", 
     "EFREWFTEWT" -- giveaway winner
 }
 
