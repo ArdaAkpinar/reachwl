@@ -4,7 +4,7 @@ local whitelist = {
     "harunisteaq9",
     "Tpsciawain", 
     "252531_werza",
-    "amacsizahmet5",
+    "AmacsizAhmet5",
     "qazztr",
     "31cihasanxd",
     "ablanidelim",
@@ -13,7 +13,7 @@ local whitelist = {
     "2525israfil",
     "itsh0r",
     "tpsciawain", --me
-    "Buluto31", 
+    "madridhayatimolmus", 
     "Alexnimo2022" -- giveaway winner
 }
 
