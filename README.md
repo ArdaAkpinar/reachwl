@@ -11,7 +11,7 @@ local whitelist = {
     "thegorkemalfa",
     "Zzz_tps2",
     "2525israfil",
-    "itsh0r",
+    "ARDAEda1",
     "tpsciawain", --me
     "madridhayatimolmus", 
     "Alexnimo2022" -- giveaway winner
